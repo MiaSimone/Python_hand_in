@@ -1,0 +1,3 @@
+('Jason', 'Male', 'History', 'Carsten Ree', 30, 2234, 7, 'Img.jpg')
+
+('Carl', 'Male', 'Danish', 'Lisbeth', 30, 2233, 10, 'Img.jpg')
